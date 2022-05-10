@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="38"> A little more about me...  
 ```javascript
 const Lwin = {
-  code: [Javascript, Typescript, HTML, CSS, PHP, NODEJS],
+  code: [Javascript, Typescript, HTML, CSS, PHP],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "Nothing in life is permanent. so i'm trying to be always humble"
