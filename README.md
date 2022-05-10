@@ -1,22 +1,16 @@
 <h3 align="left">Hi <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">, I'm Lwin Moe Paing</h3>
-<h3 align="left">I'm just simple guy. I love coding that's all.</h3>
-
-- 🌱 I’m currently learning **Computer Science & JavaScript.**
 
 - 🤝 I’m looking for help with **Javascript Language to build Many Free Softwares to help people who can't afford to pay !!**
-
 - 💬 Ask me about **React, React Native & Nodejs.**
-
 - 📫 How to reach me **lwinmoepaing.dev@gmail.com (or) facebook.com/lwin.im**
-
-- ⚡ Fun fact **I started learning technology at age 20.**
+- ⚡ I'm just simple guy. I love coding that's all.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="38"> A little more about me...  
 ```javascript
 const Lwin = {
   pronouns: "he" | "him",
