@@ -13,7 +13,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="38"> A little more about me...  
 ```javascript
 const Lwin = {
-  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, PHP, NODEJS],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest],
   architecture: ["microservices", "event-driven", "design system pattern"],
@@ -21,15 +20,14 @@ const Lwin = {
 }
 ```
 
-### My Achievements: 
-
+#### My Achievements: 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  [Champion Unihack Challenge 3 Winner](https://www.facebook.com/UniHackChallenge)
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  [WIT Design Award](https://witaward.com/result/2018)
  
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  [WIT Grand Prix Award](https://witaward.com/result/2020)
 
-## Experience:
+#### Experience:
 uab bank 
 [ React Native Developer ] 
 July 2021 - August (10 months)
