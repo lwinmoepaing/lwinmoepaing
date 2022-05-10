@@ -3,7 +3,6 @@
 - 🤝 I’m looking for help with **Javascript Language to build Many Free Softwares to help people who can't afford to pay !!**
 - 💬 Ask me about **React, React Native & Nodejs.**
 - 📫 How to reach me **lwinmoepaing.dev@gmail.com (or) facebook.com/lwin.im**
-- ⚡ I'm just simple guy. I love coding that's all.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
