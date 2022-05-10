@@ -1,4 +1,4 @@
-<h3 align="left">Hi, I'm Lwin Moe Paing <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"></h3>
+<h3 align="left"><img src="https://github.com/lwinmoepaing/lwinmoepaing/blob/main/img/gitto.gif" width="30"> Hi, I'm Lwin Moe Paing </h3>
 
 - 🤝 I’m looking for help with **Javascript Language to build Many Free Softwares to help people who can't afford to pay !!**
 - 💬 Ask me about **React, React Native & Nodejs.**
@@ -9,7 +9,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="38"> A little more about me...  
+### <img src="https://github.com/lwinmoepaing/lwinmoepaing/blob/main/img/katto.gif" width="40">   A little more about me...  
 ```javascript
 const Lwin = {
   code: [Javascript, Typescript, HTML, CSS, PHP],
@@ -20,13 +20,13 @@ const Lwin = {
 ```
 
 #### My Achievements: 
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  [Champion Unihack Challenge 3 Winner](https://www.facebook.com/UniHackChallenge)
+ <img src="https://media.giphy.com/media/rDr5Q7J0nRTgdkpwuf/giphy.gif" width="16">  [Champion Unihack Challenge 3 Winner](https://www.facebook.com/UniHackChallenge)
 
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  [WIT Design Award](https://witaward.com/result/2018)
+ <img src="https://media.giphy.com/media/rDr5Q7J0nRTgdkpwuf/giphy.gif" width="16">  [WIT Design Award](https://witaward.com/result/2018)
  
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  [WIT Grand Prix Award](https://witaward.com/result/2020)
+ <img src="https://media.giphy.com/media/rDr5Q7J0nRTgdkpwuf/giphy.gif" width="16">  [WIT Grand Prix Award](https://witaward.com/result/2020)
 
-#### Experience:
+#### <img src="https://github.com/lwinmoepaing/lwinmoepaing/blob/main/img/coding-man.gif" width="48"> Experience:
 uab bank 
 [ React Native Developer ] 
 July 2021 - August (10 months)
