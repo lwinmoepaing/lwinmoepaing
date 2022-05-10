@@ -19,7 +19,7 @@ const Lwin = {
 }
 ```
 
-#### My Achievements: 
+#### <img height="30" src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" > My Achievements: 
  <img src="https://media.giphy.com/media/rDr5Q7J0nRTgdkpwuf/giphy.gif" width="16">  [Champion Unihack Challenge 3 Winner](https://www.facebook.com/UniHackChallenge)
 
  <img src="https://media.giphy.com/media/rDr5Q7J0nRTgdkpwuf/giphy.gif" width="16">  [WIT Design Award](https://witaward.com/result/2018)
