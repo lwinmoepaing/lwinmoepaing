@@ -28,9 +28,11 @@ const Lwin = {
 ```
 
 ## My Achievements: 
-Champion [Unihack Challenge 3 Winner](https://www.facebook.com/UniHackChallenge)
-[WIT Design Award](https://witaward.com/result/2018)
-[WIT Grand Prix Award](https://witaward.com/result/2020)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Champion [Unihack Challenge 3 Winner](https://www.facebook.com/UniHackChallenge)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  [WIT Design Award](https://witaward.com/result/2018)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  [WIT Grand Prix Award](https://witaward.com/result/2020)
 
 ## Experience:
 uab bank '
