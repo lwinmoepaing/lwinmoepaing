@@ -1,5 +1,5 @@
-<h1 align="center">Hi :metal:, I'm Lwin Moe Paing</h1>
-<h3 align="center">I'm just simple guy. I love coding that's all.</h3>
+<h3 align="left">Hi <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">, I'm Lwin Moe Paing</h3>
+<h3 align="left">I'm just simple guy. I love coding that's all.</h3>
 
 - 🌱 I’m currently learning **Computer Science & JavaScript.**
 
@@ -27,17 +27,18 @@ const Lwin = {
 }
 ```
 
-## My Achievements: 
+### My Achievements: 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Champion [Unihack Challenge 3 Winner](https://www.facebook.com/UniHackChallenge)
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  [Champion Unihack Challenge 3 Winner](https://www.facebook.com/UniHackChallenge)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  [WIT Design Award](https://witaward.com/result/2018)
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  [WIT Grand Prix Award](https://witaward.com/result/2020)
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  [WIT Design Award](https://witaward.com/result/2018)
+ 
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">  [WIT Grand Prix Award](https://witaward.com/result/2020)
 
 ## Experience:
-uab bank '
+uab bank 
 [ React Native Developer ] 
-July 2021 - Auguest (10 months)
+July 2021 - August (10 months)
 
 Move Everything 
 [ Frontend Developer ] 
@@ -50,4 +51,12 @@ January 2020 - December 2020 (1 year)
 FairWay Technology
 [ Web Application Developer ]
 May 2019 - January 2020 (9 months)
+
+Readmal
+[ Web Application Developer ]
+June 2018 - May 2019 (1 year)
+
+MMS IT
+[Laravel Stack Web Developer]
+January 2017 - February 2018 (1 year 2 months)
 
