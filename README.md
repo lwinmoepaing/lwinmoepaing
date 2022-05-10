@@ -1,4 +1,4 @@
-<h3 align="left">Hi <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">, I'm Lwin Moe Paing</h3>
+<h3 align="left">Hi, I'm Lwin Moe Paing <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"></h3>
 
 - 🤝 I’m looking for help with **Javascript Language to build Many Free Softwares to help people who can't afford to pay !!**
 - 💬 Ask me about **React, React Native & Nodejs.**
