@@ -27,27 +27,33 @@ const Lwin = {
  <img src="https://media.giphy.com/media/rDr5Q7J0nRTgdkpwuf/giphy.gif" width="16">  [WIT Grand Prix Award](https://witaward.com/result/2020)
 
 #### <img src="https://github.com/lwinmoepaing/lwinmoepaing/blob/main/img/coding-man.gif" width="48"> Experience:
-uab bank 
-[ React Native Developer ] 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> uab bank 
 July 2021 - August (10 months)
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 Move Everything 
-[ Frontend Developer ] 
 January 2021 - June 2021 (6 months)
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 Marathon Myanmar
-[ Senior Frontend Developer ]
 January 2020 - December 2020 (1 year)
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 FairWay Technology
-[ Web Application Developer ]
 May 2019 - January 2020 (9 months)
 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 Readmal
-[ Web Application Developer ]
 June 2018 - May 2019 (1 year)
 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 MMS IT
-[Laravel Stack Web Developer]
 January 2017 - February 2018 (1 year 2 months)
 
