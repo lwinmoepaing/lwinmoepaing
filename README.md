@@ -14,7 +14,7 @@
 const Lwin = {
   code: [Javascript, Typescript, HTML, CSS, PHP],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["Microservices", "Event-Driven", "Design System Pattern"],
   challenge: "Nothing in life is permanent. so i'm trying to be always humble"
 }
 ```
