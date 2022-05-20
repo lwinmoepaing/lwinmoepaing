@@ -31,9 +31,9 @@ const Lwin = {
  
  <img src="https://media.giphy.com/media/rDr5Q7J0nRTgdkpwuf/giphy.gif" width="16">  [WIT Grand Prix Award](https://witaward.com/result/2020)
 
-#### <img src="https://github.com/lwinmoepaing/lwinmoepaing/blob/main/img/coding-man.gif" width="48"> Experience:
+#### <img src="https://github.com/lwinmoepaing/lwinmoepaing/blob/main/img/coding-man.gif" width="48"> Work Experience:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> uab bank 
-July 2021 - August (10 months)
+July 2021 - May 2022 (11 months)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
