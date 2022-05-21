@@ -33,7 +33,7 @@ const Lwin = {
 
 #### <img src="https://github.com/lwinmoepaing/lwinmoepaing/blob/main/img/coding-man.gif" width="48"> Work Experience:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> uab bank 
-July 2021 - May 2022 (11 months)
+July 2022 - May 2022 (11 months)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
